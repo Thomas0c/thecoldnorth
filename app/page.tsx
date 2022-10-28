@@ -27,7 +27,7 @@ export default function Page() {
 					</a>
 					, drop by{" "}
 					<a
-						href="https://github.com/thomas0c"
+						href="https://www.linkedin.com/in/thomasoc/"
 						className="border-b border-xanadu pb-px transition-colors hover:border-white hover:text-white hover:duration-300"
 					>
 						LinkedIn
