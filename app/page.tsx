@@ -1,8 +1,4 @@
-import type { NextPage } from "next";
-import Head from "next/head";
-import Image from "next/image";
-
-const Home: NextPage = () => {
+export default function Page() {
 	return (
 		<div className="mx-auto max-w-[700px] px-8 pt-16 leading-relaxed antialiased md:pt-44">
 			<main className="mb-12">
@@ -116,6 +112,4 @@ const Home: NextPage = () => {
 			</main>
 		</div>
 	);
-};
-
-export default Home;
+}
