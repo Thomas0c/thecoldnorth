@@ -17,7 +17,8 @@ const Home: NextPage = () => {
 					<span className="text-white">TypeScript</span>,{" "}
 					<span className="text-white">React Native</span>,{" "}
 					<span className="text-white">Next.js</span> &amp;{" "}
-					<span className="text-white">GraphQL</span>. Huge fan of <span className="text-white">case study houses</span>.
+					<span className="text-white">GraphQL</span>. Huge fan of{" "}
+					<span className="text-white">case study houses</span>.
 				</p>
 
 				<p className="mt-6 text-xanadu">
@@ -92,7 +93,8 @@ const Home: NextPage = () => {
 							<p className="text-xs mt-2 transition-colors group-hover:text-white hover:duration-300 leading-5">
 								Started as an intern. Ended up as an engineering lead. Built
 								chatbots, websites, prototypes, native apps. Also did technical
-								strategic research and innovation outlooks. Fortunate enough to work with brands such as Avis, Google, Nike and Intel. 
+								strategic research and innovation outlooks. Fortunate enough to work
+								with brands such as Avis, Google, Nike and Intel.
 							</p>
 						</div>
 						<div className="group pt-4">
