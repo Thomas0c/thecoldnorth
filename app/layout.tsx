@@ -34,6 +34,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 					media="(prefers-color-scheme: dark)"
 				/>
 
+				<meta name="viewport" content="minimum-scale=1, initial-scale=1, width=device-width, shrink-to-fit=no, viewport-fit=cover" />
 				<meta name="theme-color" media="(prefers-color-scheme: light)" content="#F3EFE0" />
 				<meta name="theme-color" media="(prefers-color-scheme: light)" content="#30343F" />
 			</head>
